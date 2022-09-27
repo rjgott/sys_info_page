@@ -1,0 +1,2 @@
+
+echo SYS_INFO_PAGE
