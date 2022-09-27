@@ -9,3 +9,5 @@ echo "<html>
       Page body.
   </body>
 </html>
+
+echo "system information page"
